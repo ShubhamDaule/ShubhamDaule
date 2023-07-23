@@ -1,5 +1,7 @@
 <h2 align="center">Hello there! My name is Shubham. 👋🤓</h2>
-<p align="center">I'm a Full Stack Software/DevOps Engineer </p>
+<p>Passionate Software Engineer | DevOps Enthusiast | Cloud Geek | Continuous Learner 🚀
+
+☁AWS | GCP, Azure, 🐧Linux and 🏗️Terraform Certified | CI/CD | 🐳Docker | ☸️ Kubernetes | 🐍 Python | Java | JEE | ⚙️Git/GitHub </p>
 
 ## ⚡ Updates
 - Currently working on my portfolio website
