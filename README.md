@@ -7,6 +7,7 @@
 - Currently working on my portfolio website
 
 ## ⚡ Domains
+- Full Stack
 - DevOps
 - Cloud
 - Development
