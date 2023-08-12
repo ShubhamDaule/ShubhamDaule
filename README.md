@@ -36,17 +36,11 @@
 
 
 ## ⚡ My GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamDaule&count_private=true&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDaule&hide=TeX&layout=compact&show_icons=true&hide_border=true&theme=dark)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ShubhamDaule&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ShubhamDaule&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamDaule&show_icons=true" />
-</picture>
+<a href="https://github.com/ShubhamDaule/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamDaule&count_private=true&show_icons=true&hide_border=true&theme=dark&card_width=320" />
+</a>
+
+<a href="https://github.com/ShubhamDaule/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamDaule&hide_border=true&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
