@@ -36,5 +36,17 @@
 
 
 ## ⚡ My GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamDaule&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamDaule&count_private=true&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDaule&hide=TeX&layout=compact&show_icons=true&hide_border=true&theme=dark)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShubhamDaule&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShubhamDaule&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamDaule&show_icons=true" />
+</picture>
